@@ -10,7 +10,6 @@ Click "Use this template" on [GitHub](https://github.com/coolcode/forge-template
 
 Or, if your repo already exists, run:
 ```sh
-forge init
 forge build
 forge test
 ```
